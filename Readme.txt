@@ -1,4 +1,4 @@
-This is the Readme for the project 3: 
+This is the Main Readme for this Project: 
 
 To initiate all our clients and servers see below:
 1. Run three clients with seperate client details by running our python files with the command line argument python3 client.py --t=1
